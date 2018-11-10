@@ -1,0 +1,20 @@
+{
+    "code": 200,
+    "keys": [{
+                   "key": "Colour",
+                   "key_id": 1,
+                   "type": "3"
+              },
+              {
+                   "key": "Country",
+                   "key_id": 2,
+                   "type": "2"
+              },
+              {
+                   "key": "Description",
+                   "key_id": 3,
+                   "type": "1"
+              }
+    ],
+    "message": "success"
+}
